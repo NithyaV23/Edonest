@@ -1,8 +1,0 @@
--qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "" -%F "" -%l "en, *" https://tfhtml.themepul.com/edupls/demo/index-2.html -O1 "C:\Users\user\Desktop\education" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://tfhtml.themepul.com/edupls/demo/index-2.html* +*https://tfhtml.themepul.com/edupls/demo/index-2.html*
-File generated automatically on Thu, 23 Oct 2025 15:19:39, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
